@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>90502433116-a4lokto457jakok3tcnu7u08ujurl9cv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.90502433116-a4lokto457jakok3tcnu7u08ujurl9cv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-7xfmxW98bTaq_3wpNTPFlF5-Y38XIfA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>90502433116</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.adamvitti.LampController</string>
+	<key>PROJECT_ID</key>
+	<string>wifi-lamp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wifi-lamp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:90502433116:ios:221133211ca422c52bd999</string>
+	<key>DATABASE_URL</key>
+	<string>https://wifi-lamp.firebaseio.com</string>
+</dict>
+</plist>
